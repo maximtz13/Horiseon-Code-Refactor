@@ -9,4 +9,4 @@ I updated, and organized, a codebase to follow accessibility standards. Some cha
 [https://maximtz13.github.io/Horiseon-Code-Refactor/](https://maximtz13.github.io/Horiseon-Code-Refactor/)
 
 ## Screenshot of page
-![image of page](https://ibb.co/4Mnd8m1)
+![image of page](https://i.ibb.co/Cv32b1P/webpage.png)
